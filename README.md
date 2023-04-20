@@ -3,7 +3,7 @@ This script allows you to delete a branch from your local and remote Git reposit
 
 
 ## Usage
-Run the script by typing ./delete-branch.sh in the terminal.
+Run the script by typing ./delete-branch.sh(remember to use chmod +x for permission execution) in the terminal.
 
 1. Enter the name of the branch you want to delete when prompted.<br>
 
